@@ -1,20 +1,40 @@
-# 🌸 Welcome to My GitHub Profile!
+<div align="center">asta7z
 
----
+Building things, exploring ideas.
 
-## 🌟 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asta7z&show_icons=true&theme=tokyonight&hide_title=true&card_width=445)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asta7z&layout=compact&theme=tokyonight&card_width=445)
+""Profile Views" (https://komarev.com/ghpvc/?username=asta7z&style=flat&color=527fa3)" (https://github.com/asta7z)
 
----
+</div>---
 
-## Connect with Me
+About Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/osama.btb)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/asta.7z)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/stark7z)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/asta7z)
+I'm a developer interested in building things for the web, exploring technology, and learning through experimentation.
 
----
+- ⚛️ Interested in frontend development.
+- 💻 Working with JavaScript and React.
+- 🌐 Exploring web technologies and application design.
+- 🧩 Enjoy recreating interfaces and experimenting with ideas.
+- 📚 Always learning something new.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=asta7z&color=blueviolet&style=flat)
+Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,vite,nodejs,git,github" />
+</p>Featured Projects
+
+Project| Description
+"Facebook UI Clone" (https://github.com/asta7z/facebook-ui-clone)| A recreation of Facebook's interface.
+"Aniyomi Web App" (https://github.com/asta7z/aniyomi-web-app)| Anime and manga browsing web application.
+"Wotaku React" (https://github.com/asta7z/wotaku-react)| React-based interface project.
+"AnimeStream" (https://github.com/asta7z/AnimeStream)| Anime streaming web application concept.
+"Floyd Store" (https://github.com/asta7z/Floyd-Store)| Web development project.
+
+GitHub Statistics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=asta7z&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asta7z&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" /><br/><img src="https://streak-stats.demolab.com?user=asta7z&theme=tokyonight&hide_border=true" /></div>---
+
+<div align="center">Stay curious. Keep building.
+
+"01" · asta7z
+
+</div>
