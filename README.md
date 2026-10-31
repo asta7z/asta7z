@@ -31,7 +31,7 @@ Project| Description
 
 GitHub Statistics
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=asta7z&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asta7z&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" /><br/><img src="https://streak-stats.demolab.com?user=asta7z&theme=tokyonight&hide_border=true" /></div>---
+<br/><img src="https://streak-stats.demolab.com?user=asta7z&theme=tokyonight&hide_border=true" /></div>---
 
 <div align="center">Stay curious. Keep building.
 
