@@ -2,7 +2,7 @@
 
 Building things, exploring ideas.
 
-""Profile Views" (https://komarev.com/ghpvc/?username=asta7z&style=flat&color=527fa3)" (https://github.com/asta7z)
+""Profile Views"" (https://komarev.com/ghpvc/?username=asta7z&style=flat&color=527fa3) (https://github.com/asta7z)
 
 </div>---
 
